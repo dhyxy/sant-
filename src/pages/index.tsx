@@ -17,7 +17,7 @@ export default function Home() {
         <h3>some summaries:</h3>
         <ul className="list-disc p-4">
           <li>
-            first coded when i played minecraft as a kid, didn't know what i was doing though, fell in love with
+            first coded when i played minecraft as a kid, didn&apos;t know what i was doing though, fell in love with
             it again when i noticed how much my friends enjoyed a simple little game i made in first year university
           </li>
           <li>
@@ -25,7 +25,7 @@ export default function Home() {
             perfection for other engineers
           </li>
           <li>
-            operator observability tool wasn't as instantaneous as we wanted it to be, discovered by interviewing
+            operator observability tool wasn&apos;t as instantaneous as we wanted it to be, discovered by interviewing
             and understanding operator workflows. diagnosed by implementing a pooling strategy to always have stand
             by instances, decreasing time it takes to connect from 5+ minutes to less than 1 second
           </li>
