@@ -38,6 +38,7 @@ export default function Home() {
           <li>
             $130-140k is good :) 
           </li>
+          <li>github repo link <a href="https://github.com/dhyxy/sant-">here</a></li>
         </ul>
       </div>
     </div>
